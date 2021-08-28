@@ -40,7 +40,7 @@ body{
     align-items: baseline;
 }
 .offer{
-      width: 50%;
+    width: 51%;
     text-align: end;
 }
 .offer:first-child{
